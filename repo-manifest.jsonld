@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/emnlp2026-private-reasoning/commit/09c42f9f0e8946f6cf538218b1cd287d469bcf14",
       "git:hexsha": "09c42f9f0e8946f6cf538218b1cd287d469bcf14",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T07:24:58.767120+00:00"
     }
   ]
 }
